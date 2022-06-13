@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/wip-website/static/css/main.bd0fda7b.chunk.css",
+    "main.js": "/wip-website/static/js/main.f3cb935b.chunk.js",
+    "main.js.map": "/wip-website/static/js/main.f3cb935b.chunk.js.map",
+    "runtime-main.js": "/wip-website/static/js/runtime-main.26a8c6ea.js",
+    "runtime-main.js.map": "/wip-website/static/js/runtime-main.26a8c6ea.js.map",
+    "static/js/2.29d6dd9e.chunk.js": "/wip-website/static/js/2.29d6dd9e.chunk.js",
+    "static/js/2.29d6dd9e.chunk.js.map": "/wip-website/static/js/2.29d6dd9e.chunk.js.map",
+    "index.html": "/wip-website/index.html",
+    "precache-manifest.295724031a7488079c09282892363e1f.js": "/wip-website/precache-manifest.295724031a7488079c09282892363e1f.js",
+    "service-worker.js": "/wip-website/service-worker.js",
+    "static/css/main.bd0fda7b.chunk.css.map": "/wip-website/static/css/main.bd0fda7b.chunk.css.map",
+    "static/js/2.29d6dd9e.chunk.js.LICENSE.txt": "/wip-website/static/js/2.29d6dd9e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/wip-website/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/build.jpg": "/wip-website/static/media/build.67f21b02.jpg",
+    "static/media/feature-tile-icon-01.svg": "/wip-website/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/wip-website/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/wip-website/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/wip-website/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/wip-website/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/wip-website/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/wip-website/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/wip-website/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/wip-website/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/wip-website/static/media/logo.ade19554.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a8c6ea.js",
+    "static/js/2.29d6dd9e.chunk.js",
+    "static/css/main.bd0fda7b.chunk.css",
+    "static/js/main.f3cb935b.chunk.js"
+  ]
+}
